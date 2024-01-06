@@ -1,25 +1,4 @@
-//***********************************************************
-// Name: Hzeme Mohmamed
-// Title: Assignment2.java
-// Time spent: 20 minutes
-// Date 6/11/23				
-//**************************************************************
-//Part 1 ###############
-// (1) 
-/*a) x == y / 2 evaluates to true.
-b) x % 2 == 0 || y % 2 != 0 evaluates to true.
-c) x - y < 0 && !(x >= y) evaluates to true.
-d) x + 6 != y || x / y <= 0 evaluates to true.*/
-// (2)
-/*Scanner sc = new Scanner(System.in);
-System.out.println("Please enter your full name:");
-String fullName = sc.nextLine();*/
-//(3) 
-/*The output of the mystrey is Hy
- * because String mystery = str.substring(0,1) + str.substring(n-1, n) 
- * prints the first and last charcter and the program got n from th above 
- * statment wich equals to 5
- */
+\\ burger resturant menu
 import java.util.*;
 
 public class Assignment2 {
